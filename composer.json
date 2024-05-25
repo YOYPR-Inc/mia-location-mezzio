@@ -25,15 +25,15 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/agencycoda/mia-core-mezzio.git"
+            "url": "https://github.com/YOYPR-Inc/mia-core-mezzio.git"
         },
         {
             "type": "git",
-            "url": "https://github.com/agencycoda/mia-eloquent-mezzio.git"
+            "url": "https://github.com/YOYPR-Inc/mia-eloquent-mezzio.git"
         },
         {
             "type": "git",
-            "url": "https://github.com/agencycoda/mia-auth-mezzio.git"
+            "url": "https://github.com/YOYPR-Inc/mia-auth-mezzio.git"
         }
     ]
 }
